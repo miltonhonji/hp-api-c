@@ -1,0 +1,6 @@
+@HP.ApiClient_HostAddress = http://localhost:5089
+
+GET {{HP.ApiClient_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

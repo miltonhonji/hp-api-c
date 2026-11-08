@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RqFJKPBTr5g=",
+  "success": true,
+  "projectFilePath": "D:\\hp-api-c\\src\\HP.ApiClient\\HP.ApiClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\facto\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\facto\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
